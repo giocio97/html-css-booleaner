@@ -37,3 +37,17 @@
 .sub{
     background-color: yellow;
 }
+
+
+table{
+    border-collapse: collapse;
+}
+
+thead tr{
+    background-color: rgb(0, 153, 255);
+    color: white;
+}
+
+.rigab{
+    background-color: rgb(131, 198, 243);
+}
