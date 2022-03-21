@@ -24,7 +24,16 @@
     font-size: 10px;
 }
 
+/* section photo */
 #foto-tim{
-    text-align: center;
+   
     margin-top: 10px;
+}
+.didascalia{
+    font-size: 10px;
+}
+
+/* section article */
+#sub{
+    background-color: yellow;
 }
